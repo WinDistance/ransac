@@ -1,3 +1,0 @@
-/home/zhaohz/文档/ransac/build/CMakeFiles/edit_cache.dir
-/home/zhaohz/文档/ransac/build/CMakeFiles/rebuild_cache.dir
-/home/zhaohz/文档/ransac/build/CMakeFiles/line_ransac.dir
